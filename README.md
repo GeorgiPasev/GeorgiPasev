@@ -24,7 +24,7 @@
 
 ### Connect with me:
 [<img src="https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white" alt="facebook">](https://www.facebook.com/georgi.pasev.73/)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="facebook">](https://linkedin.com/)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="facebook">](https://www.linkedin.com/in/georgi-pasev-5b6423371/)
 
 ---
 
